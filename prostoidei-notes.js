@@ -1,6 +1,5 @@
 const jsonData = [
 
-<<<<<<< HEAD
   'hello file:///N:/onuspel/Comfortable/public/index.html',
 
 
@@ -3617,7 +3616,5 @@ const jsonData = [
 
 
   'border-bottom-left-r',
-
->>>>>>> 17af24c6257d8b94ac376e07e6e7fb68c624aaf4
 
 ]
